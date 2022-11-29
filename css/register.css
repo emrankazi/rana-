@@ -1,0 +1,26 @@
+#admin-box{
+    background-color: aqua;
+}
+#admin-box img {width: 100px;
+}
+#btn{
+}
+input:focus{
+    background-color: black;
+    color: wheat;
+}
+input[type="submit"]:hover {
+    background-color: blue;
+}
+input::placeholder {
+    color: aqua;
+}
+div#admin-box {
+    text-align: center;
+    width: 600px;
+    background-color: turquoise;
+    margin: auto;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: red;
+}
